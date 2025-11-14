@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
       "texts": ["고양이상", "아이브", "레전드"],
-     "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+     "images": ["https://cdn.mhnse.com/news/photo/202509/463155_586604_229.jpg", "https://thumb.pann.com/tc_480/http://fimg5.pann.com/new/download.jsp?FileID=67817415"],
       "videos": ["https://www.youtube.com/watch?v=0pqsNFFHyhc"]
      },
 }
